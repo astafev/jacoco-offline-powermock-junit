@@ -1,6 +1,6 @@
 # jacoco-offline-powermock-junit
 
-executing of test cases causes an exception with both junit and testng: 
+execution of test cases causes an exception with both junit and testng: 
 
 ```
 java.lang.NullPointerException
